@@ -1,0 +1,60 @@
+:root {
+  --primaryColor: #2E7D32;
+  --primaryHoverColor: #256428;
+  --accentColor: #F97316;
+  --accentHoverColor: #EA580C;
+  --backgroundColor: #FFFFFF;
+  --warmBackgroundColor: #FFF7ED;
+  --surfaceColor: #F9FAFB;
+  --cardColor: #FFFFFF;
+  --textColor: #1F2937;
+  --mutedTextColor: #6B7280;
+  --borderColor: #E5E7EB;
+  --successColor: #16A34A;
+  --warningColor: #F59E0B;
+  --errorColor: #DC2626;
+
+  --fontFamilyPrimary: Inter, sans-serif;
+  --fontFamilyPersian: Estedad, Vazirmatn, Tahoma, sans-serif;
+  --fontSizeH1: 40px;
+  --fontSizeH2: 32px;
+  --fontSizeH3: 24px;
+  --fontSizeBody: 16px;
+  --fontSizeSmall: 14px;
+  --fontSizeCaption: 12px;
+  --fontWeightRegular: 400;
+  --fontWeightMedium: 500;
+  --fontWeightSemiBold: 600;
+  --fontWeightBold: 700;
+  --lineHeightHeading: 1.25;
+  --lineHeightBody: 1.7;
+
+  --spacingXs: 4px;
+  --spacingSm: 8px;
+  --spacingMd: 16px;
+  --spacingLg: 24px;
+  --spacingXl: 32px;
+  --spacing2xl: 48px;
+  --spacing3xl: 64px;
+  --spacing4xl: 96px;
+
+  --radiusSm: 6px;
+  --radiusMd: 12px;
+  --radiusLg: 20px;
+  --radiusXl: 28px;
+  --radiusFull: 999px;
+
+  --shadowSm: 0px 1px 2px rgba(0,0,0,0.05);
+  --shadowMd: 0px 6px 16px rgba(0,0,0,0.08);
+  --shadowLg: 0px 16px 32px rgba(0,0,0,0.12);
+
+  --breakpointMobile: 480px;
+  --breakpointTablet: 768px;
+  --breakpointDesktop: 1024px;
+  --breakpointWide: 1440px;
+
+  --containerMaxWidth: 1200px;
+  --sectionPaddingDesktop: 80px;
+  --sectionPaddingTablet: 56px;
+  --sectionPaddingMobile: 32px;
+}
